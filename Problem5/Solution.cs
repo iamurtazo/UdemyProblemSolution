@@ -2,6 +2,7 @@ public class Solution
 {
     public static void DisplayNumbers(string numbers)
     {
+        // code is not valid, it should be improved
         var splittedNumbers = numbers.Split(", ");
         var intNum = splittedNumbers.Select(x => int.Parse(x)).ToArray();
 
