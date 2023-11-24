@@ -1,0 +1,14 @@
+C:\Users\iammu\UdemyProblemSolutions\Problem6\bin\Debug\net8.0\Problem6.exe
+C:\Users\iammu\UdemyProblemSolutions\Problem6\bin\Debug\net8.0\Problem6.deps.json
+C:\Users\iammu\UdemyProblemSolutions\Problem6\bin\Debug\net8.0\Problem6.runtimeconfig.json
+C:\Users\iammu\UdemyProblemSolutions\Problem6\bin\Debug\net8.0\Problem6.dll
+C:\Users\iammu\UdemyProblemSolutions\Problem6\bin\Debug\net8.0\Problem6.pdb
+C:\Users\iammu\UdemyProblemSolutions\Problem6\obj\Debug\net8.0\Problem6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iammu\UdemyProblemSolutions\Problem6\obj\Debug\net8.0\Problem6.AssemblyInfoInputs.cache
+C:\Users\iammu\UdemyProblemSolutions\Problem6\obj\Debug\net8.0\Problem6.AssemblyInfo.cs
+C:\Users\iammu\UdemyProblemSolutions\Problem6\obj\Debug\net8.0\Problem6.csproj.CoreCompileInputs.cache
+C:\Users\iammu\UdemyProblemSolutions\Problem6\obj\Debug\net8.0\Problem6.dll
+C:\Users\iammu\UdemyProblemSolutions\Problem6\obj\Debug\net8.0\refint\Problem6.dll
+C:\Users\iammu\UdemyProblemSolutions\Problem6\obj\Debug\net8.0\Problem6.pdb
+C:\Users\iammu\UdemyProblemSolutions\Problem6\obj\Debug\net8.0\Problem6.genruntimeconfig.cache
+C:\Users\iammu\UdemyProblemSolutions\Problem6\obj\Debug\net8.0\ref\Problem6.dll
