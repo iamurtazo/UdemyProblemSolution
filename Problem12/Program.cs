@@ -16,6 +16,6 @@
         post.DownVote();
         post.DownVote();
         Console.WriteLine(post.CurrentVoteCount);
-
+        
     }
 }
